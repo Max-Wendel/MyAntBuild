@@ -3,7 +3,7 @@ Construindo um arquivo de build de um programa com o Ant.
 
 # Contributors
 
-[Gabriel Bras](github.com/Hematohpagus)- Hello from Brazil brazil !!!?
+[Gabriel Bras](https://github.com/Hematohpagus)- Hello from Brazil brazil !!!?
 
 [Madhav Sharma](https://github.com/madhavsharma1808) - Hello from India !!!
 
@@ -28,3 +28,5 @@ Construindo um arquivo de build de um programa com o Ant.
 [Black Fox](https://github.com/BlackFox1197) - Hellow from Germany
 
 [Ronij](https://github.com/181514912) - Hello from India
+
+[Ítalo O Costa](https://github.com/italo48) - Hello from Brasil :brazil:
