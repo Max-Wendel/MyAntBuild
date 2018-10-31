@@ -24,3 +24,5 @@ Construindo um arquivo de build de um programa com o Ant.
 [Aarya R Shankar](http://github.com/arulzz) - Hello from India! :D
 
 [FunctionalBaracuda](https://github.com/FunctionalBarracuda) - Hello from the United States!
+
+[Black Fox](https://github.com/BlackFox1197) - Hellow from Germany
