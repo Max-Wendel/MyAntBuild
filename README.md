@@ -19,6 +19,12 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Ranveer](https://github.com/RanveerSinghKhattra) - Hello from India
 
-[Ronij](https://github.com/181514912) - Hello from India
-
 [Alejandro Paz](https://github.com/alepaz) - Hello from El Salvador sv
+
+[Aarya R Shankar](http://github.com/arulzz) - Hello from India! :D
+
+[FunctionalBaracuda](https://github.com/FunctionalBarracuda) - Hello from the United States!
+
+[Black Fox](https://github.com/BlackFox1197) - Hellow from Germany
+
+[Ronij](https://github.com/181514912) - Hello from India
