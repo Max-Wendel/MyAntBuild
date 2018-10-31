@@ -22,3 +22,5 @@ Construindo um arquivo de build de um programa com o Ant.
 [Alejandro Paz](https://github.com/alepaz) - Hello from El Salvador sv
 
 [Aarya R Shankar](http://github.com/arulzz) - Hello from India! :D
+
+[FunctionalBaracuda](https://github.com/FunctionalBarracuda) - Hello from the United States!
