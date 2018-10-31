@@ -1,4 +1,4 @@
-# MyAntBuild
+﻿# MyAntBuild
 Construindo um arquivo de build de um programa com o Ant.
 
 # Contributors
@@ -58,3 +58,5 @@ Construindo um arquivo de build de um programa com o Ant.
 [Neerad Vaidya](https://github.com/nsvaidya) - Hello from India :india: <3 <3
 
 [Priyakshi Pandey](https://github.com/priyakshipandey) - Hello from India !!!
+
+[Edwin Kam](https://github.com/imedqq) - Hello from Canada !!!
