@@ -34,3 +34,19 @@ Construindo um arquivo de build de um programa com o Ant.
 [Priyakshi Pandey](https://github.com/priyakshipandey) - Hello from India !!!
 
 [Aldo Gatica] - (https://github.com/aldogatica123) - Hello from Guatemala!
+
+[SpiderManAvanger](https://github.com/SpiderManAvanger) - Hello from India :india:
+
+[Priyakshi Pandey](https://github.com/priyakshipandey) - Hello from India !!!
+
+[Marcus Vinicius](https://github.com/MarkTremblay) - Hello from Brasil! :brazil:
+
+[Nestor Rosales](https://github.com/nessross77) - Hello from Kansas in the United States
+
+[Pranav Bhatia](https://github.com/PranavBhatia) - Hello from Canada
+
+[Tapiwa Muzira](https://github.com/mbadaz) - Hello from Zimbabwe :zimbabwe:
+
+[Neerad Vaidya](https://github.com/nsvaidya) - Hello from India :india: <3 <3
+
+[Priyakshi Pandey](https://github.com/priyakshipandey) - Hello from India !!!
