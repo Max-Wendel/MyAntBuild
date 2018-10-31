@@ -31,6 +31,8 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Ítalo O Costa](https://github.com/italo48) - Hello from Brasil :brazil:
 
+[Nestor Rosales](https://github.com/nessross77) - Hello from Kansas in the United States
+
 [Pranav Bhatia](https://github.com/PranavBhatia) - Hello from Canada
 
 [Tapiwa Muzira](https://github.com/mbadaz) - Hello from Zimbabwe :zimbabwe:
