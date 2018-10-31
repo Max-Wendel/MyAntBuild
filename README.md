@@ -33,6 +33,8 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Priyakshi Pandey](https://github.com/priyakshipandey) - Hello from India !!!
 
+[Muhammad Fikri Oktoriza](https://github.com/MFOktoriza) - Hello from Indonesia :indonesia: !!!
+
 [Jeyveen Bhoyroo](https://github.com/Jeyveen7) - Hello from Mauritius
 
 [Gaurav Tiwari](https://github.com/vivante) - Hello from India !!!
