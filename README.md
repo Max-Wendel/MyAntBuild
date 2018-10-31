@@ -69,3 +69,4 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Adam Pucciano](https://github.com/Pooch11) - Hello from Canada! :canada:
 
+[Ranielly Trajano](https://github.com/TrajanoRanielly) - Hello from Brasil! :brazil:
