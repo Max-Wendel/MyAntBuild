@@ -20,3 +20,5 @@ Construindo um arquivo de build de um programa com o Ant.
 [Ranveer](https://github.com/RanveerSinghKhattra) - Hello from India
 
 [Alejandro Paz](https://github.com/alepaz) - Hello from El Salvador sv
+
+[Aarya R Shankar](http://github.com/arulzz) - Hello from India! :D
