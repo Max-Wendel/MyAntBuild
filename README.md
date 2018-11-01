@@ -3,6 +3,8 @@ Construindo um arquivo de build de um programa com o Ant.
 
 # Contributors
 
+[devsur](https://github.com/devsur) - Hello from the United States
+
 [Gabriel Bras](https://github.com/Hematohpagus)- Hello from Brazil brazil !!!?
 
 [Madhav Sharma](https://github.com/madhavsharma1808) - Hello from India !!!
@@ -69,10 +71,19 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Adam Pucciano](https://github.com/Pooch11) - Hello from Canada! :canada:
 
+[Ranielly Trajano](https://github.com/TrajanoRanielly) - Hello from Brasil! :brazil:
+
 [João Pedro](https://github.com/jpedrinhoxd) - Hello from Brazil :brazil:
 
 [Suyasha](https://github.com/suyasha0) - Hello from the USA!
 
+[Kevin Ganon](https://github.com/kevgannon) - Hello from USA!
+
+[Watte] Hello from Germany! :germany:  
+
 [Kevin Ganon](https://github.com/kevgannon) - Hello from USA! 
 
 [Sajarin](https://github.com/sajarindider) - Hello from the United States.
+
+[Ana Maria Aya](https://github.com/anamariaaya) - Hello from Colombia!
+
