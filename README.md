@@ -69,6 +69,8 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Adam Pucciano](https://github.com/Pooch11) - Hello from Canada! :canada:
 
+[Ranielly Trajano](https://github.com/TrajanoRanielly) - Hello from Brasil! :brazil:
+
 [João Pedro](https://github.com/jpedrinhoxd) - Hello from Brazil :brazil:
 
 [Suyasha](https://github.com/suyasha0) - Hello from the USA!
@@ -76,3 +78,6 @@ Construindo um arquivo de build de um programa com o Ant.
 [Kevin Ganon](https://github.com/kevgannon) - Hello from USA!
 
 [Watte] Hello from Germany! :germany:  
+
+[Kevin Ganon](https://github.com/kevgannon) - Hello from USA! 
+
