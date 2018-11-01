@@ -11,7 +11,7 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Rishabh Shukla](https://github.com/bazinga25) - Hello from India 🇮🇳
 
-[Hiago](https://github.com/hiagop) - Happy Hacking, Brazil! :brazil: 
+[Hiago](https://github.com/hiagop) - Happy Hacking, Brazil! :brazil:
 
 [Gowtham](https://github.com/gowtham1997)- Hello from India
 
@@ -79,6 +79,8 @@ Construindo um arquivo de build de um programa com o Ant.
 
 [Kevin Ganon](https://github.com/kevgannon) - Hello from USA!
 
+[Jasper Chen](https://github.com/jasperdchen/) - Hello from the USA!
+
 [Watte] Hello from Germany! :germany:  
 
 [Kevin Ganon](https://github.com/kevgannon) - Hello from USA! 
@@ -86,4 +88,3 @@ Construindo um arquivo de build de um programa com o Ant.
 [Sajarin](https://github.com/sajarindider) - Hello from the United States.
 
 [Ana Maria Aya](https://github.com/anamariaaya) - Hello from Colombia!
-
